@@ -28,7 +28,7 @@ Este proyecto es una aplicación CRUD desarrollada en Go, utilizando MySQL como 
 
 ## Información académica
 
-**Proyecto realizado para la materia Paradigma de Programación**  
+**Proyecto realizado para la materia Paradigmas de Programación I**  
 **Sección 1301, 3er semestre, IUTEPAL**  
 **TSU en Informática**
 
